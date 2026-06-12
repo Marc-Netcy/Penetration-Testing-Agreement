@@ -1,0 +1,21 @@
+# Limitations of the Service
+
+This document expands Section 9 of the Agreement.
+
+## 1. Not a Compliance Audit  
+Testing assists in evaluating compliance posture but is not a certification.
+
+## 2. No Exhaustive Guarantee  
+Penetration testing cannot detect all vulnerabilities.
+
+## 3. Operational Risks  
+Testing may trigger alerts, latency, or misfires in IAM, applications, or cloud resources.
+
+## 4. Third-Party Dependencies  
+CyberNetsec is not responsible for failures of cloud vendors or third-party providers.
+
+## 5. Reliance on Provided Information  
+Testing quality depends on accurate documentation provided by Martisato Losgistics.
+
+## 6. Legal and Policy Boundaries  
+CyberNetsec will not perform illegal activities, nor violate AWS or any service provider policy.
